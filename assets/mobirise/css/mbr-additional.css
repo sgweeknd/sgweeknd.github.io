@@ -4442,6 +4442,107 @@ body {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+.cid-qVr2fDbXJO {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qVr2fDbXJO .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qVr2fDbXJO .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qVr2fDbXJO .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qVr2fDbXJO .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qVr2fDbXJO .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qVr2fDbXJO .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qVr2fDbXJO .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qVr2fDbXJO .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qVr2fDbXJO .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-qVr3xPHHmL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qVr3xPHHmL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qVr4cT94o0 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qVr4cT94o0 .line {
+  background-color: #b1a374;
+  color: #b1a374;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qVr4cT94o0 .section-text {
+  padding: 2rem 0;
+}
+.cid-qVr4cT94o0 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qVr4cT94o0 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qVr4cT94o0 .section-text I {
+  color: #232323;
+}
+.cid-qVr4MdFQIc {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
 .cid-qVfywylb9V {
   padding-top: 30px;
   padding-bottom: 30px;
