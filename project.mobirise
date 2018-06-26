@@ -640,9 +640,9 @@
         {
           "_params": {
             "blockTitle": "",
-            "HTMLCode": "<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe>\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:1mkmsd1huVMgJOjuQtObiI&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:7LWf81NltBfh75lxq2lMfD&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
-            "extEdit": true,
-            "paddingTop": "0",
+            "HTMLCode": "<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:1mkmsd1huVMgJOjuQtObiI&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:7LWf81NltBfh75lxq2lMfD&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n\n\n\n\n\n<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe>",
+            "extEdit": false,
+            "paddingTop": "20",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -653,8 +653,8 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "",
-          "HTMLCode": "<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe>\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:1mkmsd1huVMgJOjuQtObiI&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:7LWf81NltBfh75lxq2lMfD&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "HTMLCode": "<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:1mkmsd1huVMgJOjuQtObiI&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:7LWf81NltBfh75lxq2lMfD&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n\n\n\n\n\n<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe>",
+          "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
           "alias": "htmlblock",
           "_tags": [
             "Estensioni"
