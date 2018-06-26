@@ -640,9 +640,9 @@
         {
           "_params": {
             "blockTitle": "",
-            "HTMLCode": "<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:1mkmsd1huVMgJOjuQtObiI&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:7LWf81NltBfh75lxq2lMfD&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n\n\n\n\n\n<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe>",
+            "HTMLCode": "\n\n<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe> \n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n\n\n\n\n\n",
             "extEdit": false,
-            "paddingTop": "20",
+            "paddingTop": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -653,8 +653,8 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "",
-          "HTMLCode": "<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:1mkmsd1huVMgJOjuQtObiI&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:7LWf81NltBfh75lxq2lMfD&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n\n\n\n\n\n<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe>",
-          "paddingTop": ".block {padding-bottom:20px; padding-top:20px;}",
+          "HTMLCode": "\n\n<iframe src=\"https://open.spotify.com/follow/1/?uri=spotify:artist:0MEtNr45ZzCUlm3Ef6ODzJ&size=detail&theme=dark&show-count=0\" width=\"300\" height=\"56\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden;\" allowtransparency=\"true\"></iframe> \n\n<iframe src=\"https://open.spotify.com/embed?uri=spotify:track:0GDHoGDQ1AXS9ys6O0mHt3&view=coverart\" width=\"285\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n\n\n\n\n\n\n",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
             "Estensioni"
@@ -669,7 +669,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Superiore\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Inferiore\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Colore di sfondo\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger\" href=\"https://sgweeknd.bandcamp.com\" data-app-placeholder=\"Type Text\" target=\"_blank\">MORE...</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Superiore\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Inferiore\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Colore di sfondo\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-danger\" href=\"https://sgweeknd.bandcamp.com\" data-app-placeholder=\"Type Text\" target=\"_blank\">MORE...</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-2h",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
