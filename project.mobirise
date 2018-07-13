@@ -61,7 +61,7 @@
     "uniqCompNum": 155,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/s80617-12081648-128x46-1.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
@@ -1565,7 +1565,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/3-overlay-pic-1400x1400.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -1583,7 +1583,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/15283589049851-2-1364x767.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
