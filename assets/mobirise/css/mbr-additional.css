@@ -583,8 +583,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 #scrollToTop a i:before {
   content: '';
@@ -2809,7 +2809,7 @@ body {
 .cid-qVdWeQmq1y {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/s80620-22033492-1080x1007.jpg");
+  background-image: url("../../../assets/images/3-overlay-pic-1400x1400.jpg");
 }
 .cid-qVdWeQmq1y .mbr-section-subtitle {
   color: #767676;
