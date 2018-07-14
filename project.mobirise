@@ -1574,11 +1574,11 @@
                 "customStyle1": "display-5",
                 "customStyle2": "display-7",
                 "customStyle3": "display-7",
-                "title": "COMING SOON<br>",
+                "title": "COMING SOON",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "available everywhere...",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-black\" data-app-placeholder=\"Type Text\" href=\"http://smarturl.it/HurtsSGW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LISTEN</a> ",
+                "text": "Pre-Save It<b> Now</b>!",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-7 btn-info\" data-app-placeholder=\"Type Text\" href=\"http://smarturl.it/Hurtssgw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRE-SAVE</a> ",
                 "overlayOpacity": "0.6"
               },
               {
